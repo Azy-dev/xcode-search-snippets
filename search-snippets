@@ -1,0 +1,2 @@
+# Search C language exact identifier
+[^\w]your_id[^\w]
